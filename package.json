@@ -1,0 +1,12 @@
+{
+  "name": "leetcode-in-javascript",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "babel-jest": "^25.2.6",
+    "jest": "^25.2.7"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
