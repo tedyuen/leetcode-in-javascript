@@ -1,5 +1,9 @@
 {
   "name": "leetcode-in-javascript",
+  "version": "0.0.1",
+  "description": "leetcode-in-javascript",
+  "author": "Ted Yuen",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
